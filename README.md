@@ -21,6 +21,7 @@ A simple script that re-runs all of your currently running AHK scripts as admini
 
 ### Credits
 We have a very nice community, you know. Thanks heaps to all the legends out there being so helpful.
+
 [Detect click on tray icon](https://www.autohotkey.com/boards/viewtopic.php?t=91426#p404048)
 
 [Run script as administrator](https://www.autohotkey.com/boards/viewtopic.php?p=102526#p102526)
